@@ -9,7 +9,7 @@ Skills: *C# / HTML / CSS/ JS / React / Next / SASS / Bootstrap / Tailwind*
 - 👯 I’m looking to collaborate on e-commerce applications 
 - 🤔 I’m looking for help with adding e-commerce features 
 - 💬 Ask me about JamStack Development 
-- 📫 How to reach me: https://portfolio-app-red.vercel.app/ 
+- 📫 How to reach me: https://portfolio-app-red.vercel.app/ || https://creativelightbox.net/
 
 ### 🔗 Connect with me:
 
