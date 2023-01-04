@@ -4,9 +4,9 @@ I'm a Front End Web Developer who is passionate about making fully responsive we
 
 Skills: *C# / HTML / CSS/ JS / React / Next / SASS / Bootstrap / Tailwind*
 
-- 🔭 I’m currently working on e-commerce Websites 
-- 🌱 I’m currently learning Typescript 
-- 👯 I’m looking to collaborate on e-commerce applications 
+- 🔭 I’m currently working on learning apps for students. 
+- 🌱 I’m currently learning Remix Framework 
+- 👯 I’m looking to collaborate on react applications 
 - 🤔 I’m looking for help with adding e-commerce features 
 - 💬 Ask me about JamStack Development 
 - 📫 How to reach me: https://portfolio-app-red.vercel.app/ || https://creativelightbox.net/
