@@ -123,11 +123,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 <!-- BEGIN BLOGPOSTS-CARDS -->
 
-[![reduce](https://cdn.hashnode.com/res/hashnode/image/upload/v1670955283091/XBmT_x4uh.png?auto=compress) "How to use Reduce in JavaScript"](https://creativelightbox.net/how-to-use-reduce-in-javascript)
+[![reduce](https://cdn.hashnode.com/res/hashnode/image/upload/v1677348101001/xfZ7WOK8y.png?auto=compress)](https://creativelightbox.net/how-to-use-reduce-in-javascript)
 
-[![git bash](https://cdn.hashnode.com/res/hashnode/image/upload/v1676315694041/Phvf1MFfi.png?auto=compress) "How to install Git Bash for Windows to your local system"](https://creativelightbox.net/how-to-install-git-bash-for-windows-to-your-local-system)
+[![git bash](https://cdn.hashnode.com/res/hashnode/image/upload/v1677348124915/SizkvonLn.png?auto=compress)](https://creativelightbox.net/how-to-install-git-bash-for-windows-to-your-local-system)
 
-[![Learning how to learn](https://cdn.hashnode.com/res/hashnode/image/upload/v1670953370939/aCuJ31351.png?auto=compress) "How to build a bullet-proof study system while learning"](https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development)
+[![Learning how to learn](https://cdn.hashnode.com/res/hashnode/image/upload/v1677347874010/vwYHrdR-4.png?auto=compress)](https://creativelightbox.net/why-the-jamstack-is-the-future-of-web-development)
 
 <!-- END BLOGPOSTS-CARDS -->
 
