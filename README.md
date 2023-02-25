@@ -6,7 +6,7 @@ I'm an JAMstack developer and content creator building my version of the digital
 
    <p align="left">
        <a href="https://creativelightbox.net/">
-         <img alt="blog views" title="Blog views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%9900ff&logo=eye&logoColor=white&style=for-the-badge&labelColor=bb86fc"/></a>
+         <img alt="blog views" title="Blog views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=c79600"/></a>
       <a href="https://github.com/Joshhortt?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Joshhortt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Joshhortt?tab=repositories&sort=stargazers">
@@ -14,13 +14,13 @@ I'm an JAMstack developer and content creator building my version of the digital
 
    </p>
 
-#
+---
 
 ### 🔗 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joshhortt) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/joshhortt) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://creativelightbox.net/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-calvario//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.josecalvario.com)
 
-#
+---
 
 ### 🧰 Languages and Tools
 
