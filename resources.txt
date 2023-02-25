@@ -1,0 +1,9 @@
+Resources
+
+https://primer.style/design/foundations/icons
+https://devicon.dev/
+https://img.shields.io/
+https://custom-icon-badges.demolab.com/
+https://demolab.com/
+https://github.com/DenverCoder1/custom-icon-badges
+https://shields.io/
