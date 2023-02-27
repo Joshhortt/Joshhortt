@@ -127,6 +127,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-word
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 <br />
 
+<p>These are the most used Languages and Tools I use!</p>
+
 ---
 
 ### 🔗 Connect with me:
