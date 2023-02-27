@@ -130,7 +130,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plai
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" /><br />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 
 ---
 
