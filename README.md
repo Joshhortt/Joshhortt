@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Blogger/Researcher)`**
 
-I'm an JAMstack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Blog posts content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content once a week on my Hahnode Blog" [Creative Lightbox](https://creativelightbox.net/)".
+I'm a JAMstack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Blog posts content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content once a week on my Hahnode Blog" [Creative Lightbox](https://creativelightbox.net/)".
 
    <p align="left">
        <a href="https://creativelightbox.net/">
@@ -118,7 +118,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-
 <img align="left" alt="C++" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-#
+---
 
 ### 📺 Latest Blog Posts
 
@@ -128,9 +128,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 <!-- END BLOGPOSTS-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Visit%20Blog-red?style=for-the-badge&?logo=brand-icon-min&logoColor=white"/>](https://creativelightbox.net)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Visit%20Blog-blue?style=for-the-badge&?logo=brand-icon-min&logoColor=white"/>](https://creativelightbox.net)
 
-#
+---
 
 ### 📊 Stats
 
@@ -140,7 +140,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 ![Profile views](https://gpvc.arturio.dev/Joshhortt)
 
-#
+---
 
 <details>
  <summary><h3>👨‍💻 José's Coding Journey</h3></summary>
