@@ -117,17 +117,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <img align="left" alt="SqLite" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
-<img align="left" alt="Filezilla" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
-<br />
+<br /><br />
 
-<p>These are the most used Languages and Tools I use!</p>
+<!-- <p>These are the most used Languages and Tools I use!</p> -->
 
 ---
 
