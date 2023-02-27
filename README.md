@@ -21,9 +21,6 @@ I'm a JAMstack developer and content creator building my version of the digital 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
@@ -99,9 +96,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
 <img align="left" alt="AdobeXD" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 
@@ -117,13 +111,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <img align="left" alt="SqLite" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;"
+<img align="left" alt="Unix" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
-<br /><br />
+<br />
 
-<!-- <p>These are the most used Languages and Tools I use!</p> -->
-
----
+#
 
 ### 🔗 Connect with me:
 
