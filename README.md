@@ -131,8 +131,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-word
 
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
+<br />
 
----
+#
 
 ### 📺 Latest Blog Posts
 
