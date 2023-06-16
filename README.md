@@ -129,10 +129,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" 
 
 <!-- BEGIN BLOGPOSTS-CARDS -->
 
-[![cloudcannon3](https://cdn.hashnode.com/res/hashnode/image/upload/v1684773961936/hc7QMEiuM.png?auto=format)](https://creativelightbox.net/the-power-of-ai-in-website-creation-my-site-was-built-by-a-single-prompt)
+[![cloudcannonPT](https://cdn.hashnode.com/res/hashnode/image/upload/v1686940985310/dzZ9tioUY.png?auto=format)](https://creativelightbox.net/como-publicar-os-seus-artigos-no-gestor-de-conteudos-cloudcannon)[![cloudcannon3](https://cdn.hashnode.com/res/hashnode/image/upload/v1684773961936/hc7QMEiuM.png?auto=format)](https://creativelightbox.net/the-power-of-ai-in-website-creation-my-site-was-built-by-a-single-prompt)
 [![cloudcannon-4](https://cdn.hashnode.com/res/hashnode/image/upload/v1683370513975/WPJqiGDdM.png?auto=format)](https://creativelightbox.net/take-control-of-your-editing-process-how-to-enable-editor-branching-with-cloudcannon-projects)[![nextjs-three](https://cdn.hashnode.com/res/hashnode/image/upload/v1682518997852/Ij2WPlfX4.png?auto=format)](https://creativelightbox.net/how-nextjs-13s-css-modules-loading-state-feature-can-improve-user-experience)[![LinkedIn](https://cdn.hashnode.com/res/hashnode/image/upload/v1681378758341/gDrqw2td3.png?auto=compress)](https://creativelightbox.net/how-to-get-hired-as-a-junior-web-developer)
 [![nextjs-two](https://cdn.hashnode.com/res/hashnode/image/upload/v1680634544118/7uTce0tC2.png?auto=compress)](https://creativelightbox.net/take-your-nextjs-13-app-to-the-next-level-with-new-routing-enhancements-dynamic-layouts-and-efficient-links)
-[![nextjs-one](https://cdn.hashnode.com/res/hashnode/image/upload/v1680026274764/D1wPTW7ha.png?auto=compress)](https://creativelightbox.net/getting-started-with-nextjs-a-comprehensive-guide-to-building-your-first-application)
+
+<!-- [![nextjs-one](https://cdn.hashnode.com/res/hashnode/image/upload/v1680026274764/D1wPTW7ha.png?auto=compress)](https://creativelightbox.net/getting-started-with-nextjs-a-comprehensive-guide-to-building-your-first-application) -->
 
 <!-- [![cloudcannon3](https://cdn.hashnode.com/res/hashnode/image/upload/v1679421680973/13CDuxrm0.png?auto=compress)](https://creativelightbox.net/a-step-by-step-guide-to-installing-pre-configured-cloudcannon-themes-for-your-jamstack-project) -->
 
