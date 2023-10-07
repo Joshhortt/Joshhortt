@@ -6,7 +6,7 @@ I'm a React Full-stack developer, content creator, and experienced project manag
 
 Beyond development, I bring a wealth of expertise in project management, digital marketing, and e-commerce to the table. I apply this diverse skill set to create holistic solutions that bridge the gap between technology and business.
 
-Join me on my creative journey as I craft innovative solutions and share my insights. Explore my weekly blog updates on [Creative Lightbox](https://creativelightbox.net/) at Hahnode, where I illuminate the exciting realms of tech, creativity, project management, and digital marketing.
+Join me on my creative journey as I craft innovative solutions and share my insights. Explore my weekly blog updates on [Creative Lightbox](https://creativelightbox.net/) at Hashnode, where I illuminate the exciting realms of tech, creativity, project management, and digital marketing.
 
    <p align="left">
        <a href="https://creativelightbox.net/">
