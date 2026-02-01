@@ -1,6 +1,5 @@
-# 
-![logo 47H8](https://github.com/user-attachments/assets/ffb1f84e-63c8-4831-9222-1402985c7fe7)
- 
+# 47H8
+
 **`Digital Craftsman (Designer/Developer/Blogger/Project Manager/Digital Marketer)`**
 
 I'm a React Full-stack developer, content creator, and experienced project manager with a passion for building my version of the digital world one step at a time. From coding projects to blog posts, I thrive on starting from scratch, meticulously planning, designing, and solving real-life problems with code.
