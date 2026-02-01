@@ -1,6 +1,10 @@
-# <a href="https://www.canva.com/design/DAHAF3uzzZo/view" target="_blank">
-  <img src="https://img.icons8.com/emoji/48/art-emoji.png" width="24" height="24">
-</a>
+# <iframe
+  src="https://www.canva.com/design/DAHAF3uzzZo/bW4BAvodl5mPsZ-yDlcsTg/view?embed"
+  width="24"
+  height="24"
+  style="border:none; vertical-align: middle;"
+  loading="lazy">
+</iframe>
  
 **`Digital Craftsman (Designer/Developer/Blogger/Project Manager/Digital Marketer)`**
 
